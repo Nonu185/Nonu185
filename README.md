@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nonu185.Nonu185&"  />
-</div>
-
-###
-
 <h1 align="center">Profile Overview</h1>
 
 ###
